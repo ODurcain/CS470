@@ -1,0 +1,16 @@
+questions
+
+PART1
+
+are the clusters the class types, so 6? ------- most likely
+
+are we talking about 1 row or 51 rows per sample?
+
+is one cluster 24 data
+
+PART2
+
+ratio of clusters? dunn index
+
+Do we want to normalize data?
+
